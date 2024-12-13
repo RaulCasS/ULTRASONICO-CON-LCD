@@ -65,4 +65,6 @@ delay(2000);
 
 ![](https://github.com/RaulCasS/ULTRASONICO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20222045.png?raw=true)
 ![](https://github.com/RaulCasS/ULTRASONICO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20222148.png?raw=true)
-![]()
+![](https://github.com/RaulCasS/ULTRASONICO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20222255.png?raw=true)
+
+
