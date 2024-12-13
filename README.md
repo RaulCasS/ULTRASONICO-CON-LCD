@@ -67,4 +67,8 @@ delay(2000);
 ![](https://github.com/RaulCasS/ULTRASONICO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20222148.png?raw=true)
 ![](https://github.com/RaulCasS/ULTRASONICO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20222255.png?raw=true)
 
+### CRÉDITOS
 
+Desarrollador por el Ing. Raúl Castañeda Sotelo
+
+https://github.com/RaulCasS (GitHub)
